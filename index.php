@@ -17,4 +17,4 @@ define('WP_USE_THEMES', false);
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
 
-echo "this is wordpress in github";
+echo "this is wordpress in github with a new change";
